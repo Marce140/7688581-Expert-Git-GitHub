@@ -54,8 +54,16 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
+<<<<<<< Updated upstream
 * **O.C.**
 
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](LICENSE) pour plus de détails
+=======
+* **Marcela**
+
+## License
+
+Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+>>>>>>> Stashed changes
